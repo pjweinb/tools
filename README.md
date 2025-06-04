@@ -1,3 +1,5 @@
+This is just a copy to try things on.
+
 # Go Tools
 
 [![PkgGoDev](https://pkg.go.dev/badge/golang.org/x/tools)](https://pkg.go.dev/golang.org/x/tools)
